@@ -3,7 +3,7 @@ You may need to change the paths on the 17th, 20th, 23rd, 25th and 39th lines ac
 """
 import os
 
-length = input("Which cases_short do you want to test? [short/long]\n")
+length = input("Which cases do you want to test? [short/long]\n")
 print("Testing...\n")
 
 if length == "short":
