@@ -12,7 +12,7 @@ In case of errors like "FileNotFoundError: No such file or directory...", you ma
 Tester prints the failed cases and the overall proposed grade out of 100.
 You can check the correct answers from the directories results_short and results_long.
 
-Results are tested are tested with given the1_helper file.
+Results are tested with the given the1_helper file.
 
 (Tested on Ubuntu 20.04/20.10, WSL2 on Windows 10 and İneks. May not work on Windows systems)
 
