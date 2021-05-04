@@ -1,5 +1,5 @@
 # CENG140-THE1-Tester
-Tester for the CENG 140 Take Home Exam 1 in 2020-21 Spring Semester.
+Tester for the CENG 140 Take Home Exam 1 (for Section 3) in 2020-21 Spring Semester.
 
 To use this tester:
 
