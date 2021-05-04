@@ -11,6 +11,7 @@ To use this tester:
 In case of errors like "FileNotFoundError: No such file or directory...", you may need to manually change the lines 17th, 20th, 23rd, 25th and 39th according to your path.
 
 Tester prints the failed cases and the overall proposed grade out of 100.
+
 You can check the correct answers from the directories results_short and results_long.
 
 Cases are generated absolutely randomly and the results are tested with the given the1_helper file.
