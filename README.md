@@ -16,6 +16,7 @@ You can check the correct answers from the directories results_short and results
 
 Cases are generated absolutely randomly and the results are tested with the given the1_helper file.
 
+
 (Tested on Ubuntu 20.04/20.10, WSL2 on Windows 10 and İneks. May not work on Windows systems)
 
 Coded by:
