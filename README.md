@@ -2,6 +2,7 @@
 Tester for the CENG 140 Take Home Exam 1 in 2020-21 Spring Semester.
 
 To use this tester:
+
 	First you need to use a UNIX system, or WSL.
 	Put the tester.py in the directory that contains you the1 executable file.
 	Extract cases_and_results.zip in the directory.
