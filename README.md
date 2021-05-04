@@ -7,7 +7,7 @@ To use this tester:
     Extract cases_and_results.zip in the directory.
     Run tester.py!
     
-In case of errors like "FileNotFoundError: No such file or directory...", you may need to manually change the lines 17th, 20th, 23rd, 25th and the 39th according to your path.
+In case of errors like "FileNotFoundError: No such file or directory...", you may need to manually change the lines 17th, 20th, 23rd, 25th and 39th according to your path.
 
 Tester prints the failed cases and the overall proposed grade out of 100.
 
